@@ -1,4 +1,4 @@
-venv
-__pycache__/
-*.sqlite3
-openAI.env
+.env
+*.env
+db.sqlite3
+venv/
